@@ -20,4 +20,5 @@ Also availablee on the following page (or using the below links): [GitHubGist Gu
 ## Level 2
 - [2.1. Director of Photography 2](https://gist.github.com/GuillaumeBriac/138cfe9a4d7e78d325763e491f556929)
 - [2.2. Hops](https://gist.github.com/GuillaumeBriac/3e073ffdd38bd718d014bd4bb0161e22)
+- [2.3. Missing Mail](https://gist.github.com/GuillaumeBriac/cbeb2192aec2bb5ddccad17333fad975)
 - [2.7. Scoreboard Inference 2](https://gist.github.com/GuillaumeBriac/c9836162556a9c42e7e6d7c040550857)
